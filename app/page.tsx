@@ -47,6 +47,11 @@ export default function Component() {
             <Link href="#contact" className="text-sm font-medium hover:text-green-600 transition-colors">
               Contact
             </Link>
+            <Link href="/login">
+              <Button variant="outline" className="border-green-600 text-green-600 hover:bg-green-50">
+                Dashboard Login
+              </Button>
+            </Link>
           </nav>
           <Button className="bg-green-600 hover:bg-green-700">Book Now</Button>
         </div>
