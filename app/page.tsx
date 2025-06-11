@@ -49,7 +49,7 @@ export default function Component() {
             </Link>
             <Link href="/login">
               <Button variant="outline" className="border-green-600 text-green-600 hover:bg-green-50">
-                Dashboard Login
+                Login
               </Button>
             </Link>
           </nav>
